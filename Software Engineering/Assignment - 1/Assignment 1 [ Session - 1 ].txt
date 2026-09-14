@@ -1,0 +1,94 @@
+Assignment - 1
+Session - 1
+
+
+
+Tasks :-
+
+
+1. Name 5 IT job roles and write one line about what each role does.
+
+-> (I) Software Developer => A Software Developer Designs, Writes & Tests Code to Build applications, Websites & Software.
+	
+   (II)	Cybersecurity Analyst => Protects a company's systems and data from hackers and cyber attacks.
+
+   (III) UI/UX Designer => Makes apps and websites easy to use and good-looking.
+
+   (IV) Data Analyst => Studies data to find useful patterns and helps businesses to make better decisions.
+
+   (V) AI/ML Engineer => Builds smart systems that learn from data.
+	
+
+
+
+2. List 3 product companies and 3 service companies with one example of work each does.
+
+-> Product Companies => Build and Sell Their own Software/Products.
+
+	(I) Google => Makes Gmail and Google Search, used by almost everyone online.
+	
+	(II) Microsoft => Makes Windows and MS Office, used by people everywhere.
+
+	(III) Adobe => Makes Photoshop, used for editing photos and designs.
+ 
+
+-> Service Companies => they build software for other companies based on what those companies need.
+
+	(I) TCS (Tata Consultancy Services) => Builds a banking app for a bank, based on what the bank wants.
+
+	(II) Tech Mahindra – Builds a customer support system for a mobile company.
+
+	(III) Cognizant – Builds an online ordering app for a restaurant.
+
+
+
+
+3. Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API.
+
+-> GitHub => Full-Form :- GitHub is the name of a platform for hosting Git repositories.
+
+	     Use :- It's where coders save and share their code.
+
+
+   Slack => Full-Form :- Slack is the name of a communication platform.
+
+	    Use :- It's an app for chatting with your work team.
+
+
+   Jira => Full-Form :- Jira is the name of a project management tool.
+
+	   Use :- It's a tool to track tasks and bugs in a project.
+
+
+   IDE => Full-Form :- Integrated Development Environment.
+
+	  Use :- A place where coders write, test, and fix their code — all in one tool.
+
+ 
+   API => Full-Form :- Application Programming Interface.
+
+	  Use :- A way for two different apps or programs to talk to each other and share information.
+
+
+
+
+4. Name any 5 programming languages and mention one popular use case for each.
+
+-> Python => Used to build AI and analyze data.
+
+   JavaScript => Used to make websites interactive (buttons, animations).
+
+   Swift => Used to build iPhone and iPad apps.
+
+   SQL => Used to store and find data in databases.
+
+   C++ => Used to make games and fast software.
+
+
+
+
+5. What is the difference between a developer and a tester? Answer in 2 lines.
+
+-> Developer => Writes the code to build the app or website.
+
+   Tester => Checks the app or website for bugs and makes sure it works properly.
