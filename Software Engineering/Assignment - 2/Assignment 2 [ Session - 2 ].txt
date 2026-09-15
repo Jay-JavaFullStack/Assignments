@@ -15,8 +15,14 @@ Tasks :-
 
 2. Open VS Code or DevC++ and create a new file named hello.c. Write a C program that prints 'Hello, Instagram World!' to the console.
 
--> Code Path => D:\Java Full Stack Assignment\Software Engineering\Assignment - 2\hello.c
+-> Code => #include <stdio.h>
 
+           int main() {
+               printf("Hello, Instagram World!\n");
+           return 0;
+        } 
+
+    Output => Hello, Instagram World!
 
 
 
