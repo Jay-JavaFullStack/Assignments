@@ -1,0 +1,52 @@
+Assignment - 2
+Session - 2
+
+
+
+Tasks :-
+
+
+1. Install GCC on your computer and verify the installation by running gcc --version in your terminal or command prompt.
+
+->  verify gcc In terminal => gcc (MinGW.org GCC-6.3.0-1) 6.3.0
+
+
+
+
+2. Open VS Code or DevC++ and create a new file named hello.c. Write a C program that prints 'Hello, Instagram World!' to the console.
+
+-> Code Path => D:\Java Full Stack Assignment\Software Engineering\Assignment - 2\hello.c
+
+
+
+
+3. Identify and label the header, main function, and return statement in your hello.c program using comments.
+
+->  Code With comments =>  // Header file - allows use of printf function
+                           #include <stdio.h>
+
+                           // Main function - program execution starts here
+                           int main() {
+                               printf("Hello, Instagram World!\n");
+    
+                           // Return statement - ends the program and returns 0 (success)
+                           return 0;
+                           } 
+
+    simple explanation => Header (#include <stdio.h>) – Brings in built-in functions like printf so we can use them.
+
+                          Main function (int main() { }) – This is where the program starts running
+
+                          Return statement (return 0;) – Tells the computer the program finished successfully.
+
+
+
+
+4. Compile your hello.c file using the GCC command line (gcc hello.c -o hello) and run the output file to display the message in your terminal. Hint: On Windows, the output file will be hello.exe; on Linux/Mac, it will be hello.
+
+->  Steps in terminal => 
+
+    (1) gcc hello.c -o hello
+    (2) ./hello
+
+    Show in terminal => Hello, Instagram World!
