@@ -1,0 +1,15 @@
+// Identify and correct the invalid variable names from this list: 1stPlayer, player_age, $score, total-marks, userName. Hint: Apply standard variable naming rules for your programming language.
+
+
+
+Variables    |   Valid - Invalid  |             Reason                        |    Corrected Name
+
+1stPlayer    |   Invalid          |   Starts with a number                    |    firstPlayer
+
+player_age   |   Valid            |   Starts with a letter, uses Underscore   |    player_age (no change needed)
+
+$score       |   Invalid          |   Contains special character $            |    score
+
+total-marks  |   Invalid          |   Contains hyphen -                       |   totalMarks
+
+userName     |   valid            |   Starts with a letter, only letters      |    userName (no change needed)
