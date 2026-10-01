@@ -1,0 +1,67 @@
+Assignment - 1
+Session - 4
+
+
+
+Tasks :-
+
+
+1. List all 6 phases of SDLC in order with one line about each.
+
+->  (I) Requirement Analysis => Understand what the client needs from the software.
+
+    (II) Design => Plan how the software will look and work (structure, architecture).
+
+    (III) Implementation (Coding) => Actual coding is done to build the software.
+
+    (IV) Testing => Check the software for bugs and errors, fix them.
+
+    (V) Deployment => Release the software for real users to use.
+
+    (VI) Maintenance => Keep updating and fixing the software after release.
+
+
+
+
+2. Write 3 differences between Agile and Waterfall models.
+
+->  Agile = (I) Works in small cycles (sprints) and repeats steps as needed.
+            (II) Flexible — changes can be made anytime during development.
+            (III) Delivers working parts of the software regularly, little by little.
+
+    Waterfall = (I) Follows a step-by-step process, one phase after another.
+                (II) Rigid — changes are hard once the process has started.
+                (III) Delivers the final product only at the end, after all phases are complete.
+
+
+
+
+3. Name the 3 main Scrum roles and write one line about the responsibility of each.
+
+->  (I) Product Owner => Decides what needs to be built and sets priorities for the team.
+
+    (II) Scrum Master => Helps the team follow Scrum rules and removes any problems blocking their work.
+
+    (III) Development Team => Does the actual work of building and delivering the product.
+
+
+
+
+4. What is a Sprint in Scrum? Mention its typical duration.
+
+->  Sprint => is a short, fixed period of time during which the team works to complete a set amount of work in Scrum.
+
+    Typical duration: 1 to 4 weeks.
+
+
+
+
+5. What do these Jira board columns mean: To Do, In Progress, Done, Backlog?
+
+->  (I) To Do => Tasks that are planned and ready to be worked on soon.
+
+    (II) In Progress => Tasks that are currently being worked on.
+
+    (III) Done => Tasks that are completed.
+
+    (IV) Backlog => A list of all tasks that need to be done, but work hasn't started yet.
