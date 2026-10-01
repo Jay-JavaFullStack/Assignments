@@ -1,0 +1,84 @@
+Assignment - 2
+Session - 1
+
+
+
+Tasks :-
+
+
+1. Write a short paragraph in your own words defining what a 'program' is and give one real-life example from any app you use daily (like Instagram, Zomato, or Paytm).
+
+->  Program => A program is a set of instructions written by a programmer that tells a computer what to do step by step.
+               It helps the computer perform tasks automatically, like calculations, showing information, or connecting people, without a human doing it manually each time.
+
+    Real-life example => Instagram is a program. When you open the app, it runs instructions to show you photos and videos, let you like or comment on posts, and send messages to friends — all happening because of code written by developers.
+
+
+
+
+2. List three popular programming languages you have heard of, and for each, mention whether it is usually compiled, interpreted, or can be both.Hint: Think of languages like Java, Python, and JavaScript.
+
+->  Java => Usually compiled (converted into bytecode, then run by JVM).
+
+    Python => Usually interpreted (code runs line by line).
+
+    JavaScript => Usually interpreted (runs directly in the browser).
+
+
+
+
+3. Draw a flowchart (on paper or using any online tool) for the process of booking a movie ticket on BookMyShow, starting from opening the app to receiving the booking confirmation.
+
+->  FLOWCHART => Booking a Movie Ticket on BookMyShow
+
+[Start]
+   |
+   v
+Open BookMyShow app
+   |
+   v
+Select movie
+   |
+   v
+Select cinema & showtime
+   |
+   v
+Select seats
+   |
+   v
+Enter payment details
+   |
+   v
+Payment successful? -------------------> [No] ---> Retry payment ---+
+   |                                                                 |
+  [Yes]                                                              |
+   |                                                                 |
+   v                                                                 |
+Receive booking confirmation                                         |
+   |                                                                 |
+   v                                                                 |
+[End]                                                                |
+                                                                     |
+(Retry payment loops back to "Enter payment details") <--------------+
+
+
+   Link flowchart Image => https://drive.google.com/file/d/1tqZCLpb9nisc9Bhh4q62WdI6MtgHiHye/view?usp=drive_link
+
+
+
+
+4. Write down the steps (as an algorithm, using simple numbered instructions) for ordering food on Swiggy — from opening the app to completing payment.
+
+-> Steps =>
+
+   (1) Open the Swiggy app.
+   (2) Allow/set your delivery location.
+   (3) Browse restaurants or search for food you want.
+   (4) Select a restaurant.
+   (5) Choose food items and add them to the cart.
+   (6) Review your cart (check items and quantity).
+   (7) Tap "Proceed to checkout."
+   (8) Confirm delivery address.
+   (9) Select a payment method (UPI, card, cash, etc.).
+   (10) Complete the payment.
+   (11) Receive order confirmation.
