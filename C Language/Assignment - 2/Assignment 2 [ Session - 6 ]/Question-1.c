@@ -1,0 +1,11 @@
+//Write a program that prints the numbers from 10 down to 1 using a for loop, similar to a countdown timer.
+
+#include <stdio.h>
+
+void main(){
+    int i;
+
+    for(i = 10; i >= 0; i--){
+        printf("%d\n",i);
+    }
+}
