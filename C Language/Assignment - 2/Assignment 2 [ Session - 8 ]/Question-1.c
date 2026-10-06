@@ -9,4 +9,5 @@ void getUserInitials(char name[]){
 void main(){
     char name[] = "Shubman Gill";
     getUserInitials(name);
+    
 }
